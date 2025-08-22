@@ -45,7 +45,7 @@ To perform a vulnerability and information gathering assessment on **toriloacade
 
 ## Methodology
 - **OSINT**: WHOIS, DNS, IP lookup  
-- **Port Scanning**: Nmap scan  
+- **Port Scanning**: Nmap, Masscan, and Zenmap, Nikto 
 - **Web App Testing**: Wapiti, OWASP ZAP, SQLmap  
 - **Wi-Fi & Network Security**: Not applicable (web-based only)  
 
@@ -58,26 +58,49 @@ To perform a vulnerability and information gathering assessment on **toriloacade
 ## Deliverables
 A full report in PDF format: [Torilo Academy Vulnerability Report](../reports/toriloacademy-report.pdf)  
 
+# 🧪 Project: Web Application Security Lab
 
+## Objective
+To practice common web application vulnerabilities using controlled environments.  
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+## Activities
+- Simulated **SQL Injection** with SQLmap  
+- **Cross-Site Scripting (XSS)** testing  
+- **Directory brute forcing**  
+- **Authentication testing** with brute login forms  
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+## Tools  
+- OWASP ZAP  
+- Wapiti  
+- Burp Suite
 
-![image](2 anietie etuk data analytics sales project.jpg)
+  # 📡 Project: Wi-Fi Security Lab
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+## Objective
+To analyze and understand Wi-Fi vulnerabilities and traffic interception.  
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+## Activities
+- Captured Wi-Fi handshakes  
+- Performed ARP spoofing with **Ettercap, Bettercap**  
+- Analyzed traffic with **Wireshark**  
+- Learned about WPA2 security and password cracking methods  
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+## Tools
+- Wireshark 
+- Ettercap
+- Bettercap
 
-![image](3 anietie etuk data analytics agro project.jpg)
+# 📘 Learning & Certifications
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+## Ongoing Learning
+- Toriloacademy  
+- Following cybersecurity blogs and research papers  
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
+## Courses (in progress)
+- Cybersecurity + Ethical Hacking Mastery
+- 
+## Future Plans 
+- Offensive Security Certified Professional (OSCP)  
 
 ## CONTACT DETAILS
 
@@ -86,15 +109,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:akinbodeelijahentltd@gmail.com">akinbodeelijahentltd@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 805-866-0394</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -116,5 +139,5 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 
 
-Raw File by Anietie Etuk.txt
-Displaying Raw File by Anietie Etuk.txt.
+Raw File by Akinbode Elijah.txt
+Displaying Raw File by Akinbode Elijah.txt.
