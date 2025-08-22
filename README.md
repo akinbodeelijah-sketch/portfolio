@@ -91,16 +91,10 @@ To analyze and understand Wi-Fi vulnerabilities and traffic interception.
 - Bettercap
 
 # 📘 Learning & Certifications
-
-## Ongoing Learning
-- Toriloacademy  
-- Following cybersecurity blogs and research papers  
-
-## Courses (in progress)
-- Cybersecurity + Ethical Hacking Mastery
-- 
-## Future Plans 
-- Offensive Security Certified Professional (OSCP)  
+- Forage (in progress)
+- Blue Team Labs Online (in progress)
+- Torilo Academy: Cybersecurity + Ethical Hacking Mastery (in progress)
+- Self-study: Kali Linux, Parrot OS, penetration testing tools 
 
 ## CONTACT DETAILS
 
@@ -118,26 +112,4 @@ To analyze and understand Wi-Fi vulnerabilities and traffic interception.
     <tr>
       <td>📍</td>
       <td>Lagos, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
-
-   
-
-
-
-
-Raw File by Akinbode Elijah.txt
-Displaying Raw File by Akinbode Elijah.txt.
+  
