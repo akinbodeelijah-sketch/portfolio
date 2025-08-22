@@ -74,7 +74,7 @@ To practice common web application vulnerabilities using controlled environments
 - Wapiti  
 - Burp Suite
 
-  # 📡 Project: Wi-Fi Security Lab
+# 📡 Project: Wi-Fi Security Lab
 
 ## Objective
 To analyze and understand Wi-Fi vulnerabilities and traffic interception.  
