@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## 👤 ABOUT ME
 
-I am currently studying **Business Administration**, but I have developed a keen interest in **cybersecurity**.  I am motivated by the need to understand how technology, businesses, and people interact, and how cybersecurity protects these elements.  
+I am currently a Business Administration Graduate, but I have developed a keen interest in cybersecurity. Although I do not come from a computer science background, I am actively learning, practicing, and documenting my journey into this field  
 
 My focus areas include:
 - **Information Gathering & OSINT**
@@ -31,8 +31,6 @@ My focus areas include:
 - **Kali Linux / Parrot OS** – Penetration testing environments  
 
 ---
-
-
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
