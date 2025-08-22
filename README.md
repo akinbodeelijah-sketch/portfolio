@@ -56,7 +56,7 @@ To perform a vulnerability and information gathering assessment on **toriloacade
 - SSL certificate inspected (Let's Encrypt, valid but basic configuration)  
 
 ## Deliverables
-A full report in PDF format: [Torilo Academy Vulnerability Report](../reports/toriloacademy-report.pdf)  
+A full report in PDF format: [Toriloacademy Vulnerability Report.pdf] 
 
 # 🧪 Project: Web Application Security Lab
 
@@ -112,4 +112,6 @@ To analyze and understand Wi-Fi vulnerabilities and traffic interception.
     <tr>
       <td>📍</td>
       <td>Lagos, Nigeria</td>
+      
+  
   
