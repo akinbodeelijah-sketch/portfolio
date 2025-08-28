@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Akinbode Elijah — Cybersecurity Portfolio</title>
+  <meta name="description" content="Cybersecurity portfolio of Akinbode Elijah: OSINT, web app security, network analysis, and vulnerability assessments." />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="assets/favicon.png" />
+  <meta property="og:title" content="Akinbode Elijah — Cybersecurity Portfolio" />
+  <meta property="og:description" content="OSINT, Web App Security, Network Traffic Analysis, Vulnerability Assessment." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://akinbodeelijah-sketch.github.io/portfolio/" />
+  <meta property="og:image" content="assets/og-image.jpg" />
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Person",
+    "name":"Akinbode Elijah",
+    "jobTitle":"Cybersecurity Analyst (Entry-Level)",
+    "url":"https://akinbodeelijah-sketch.github.io/portfolio/",
+    "address":{"@type":"PostalAddress","addressLocality":"Lagos","addressCountry":"NG"},
+    "email":"mailto:akinbodeelijahentltd@gmail.com",
+    "sameAs":[
+      "https://github.com/akinbodeelijah-sketch",
+      "https://www.linkedin.com/in/akinbode-elijah" 
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="#top">Akinbode Elijah</a>
+    <nav>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#about">About</a>
+      <a href="#contact" class="btn">Contact</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero__text">
+        <h1>Cybersecurity Analyst focused on OSINT, Web App Security & Network Analysis</h1>
+        <p>I help teams find weaknesses before attackers do—through structured recon, targeted testing, and clear, reproducible reporting.</p>
+        <div class="cta">
+          <a class="btn" href="assets/Akinbode-Elijah-CV.pdf" target="_blank" rel="noopener">Download CV</a>
+          <a class="btn btn--ghost" href="#projects">See Projects</a>
+        </div>
+      </div>
+      <img class="hero__img" src="assets/portrait.jpg" alt="Portrait of Akinbode Elijah" />
+    </section>
+
+    <section id="projects" class="section">
+      <h2>Projects</h2>
+
+      <!-- Project 1 -->
+      <article class="card">
+        <div class="card__head">
+          <h3>Torilo Academy — Vulnerability Assessment</h3>
+          <span class="tag">Web App</span>
+        </div>
+        <p class="muted">Objective: Perform OSINT + baseline web application security review on <code>toriloacademy.com</code> under a non-intrusive scope.</p>
+        <ul class="grid two">
+          <li><strong>Recon:</strong> WHOIS, DNS, IP, WhatWeb</li>
+          <li><strong>Scanning:</strong> Nmap, Masscan, Nikto</li>
+          <li><strong>Testing:</strong> OWASP ZAP, Wapiti, SQLMap</li>
+          <li><strong>Findings:</strong> Missing security headers; WAF presence; no exploitable SQLi/XSS in limited tests</li>
+        </ul>
+        <div class="actions">
+          <a class="btn" href="assets/Toriloacademy-Vulnerability-Report.pdf" target="_blank" rel="noopener">Read the PDF Report</a>
+          <a class="btn btn--ghost" href="https://github.com/akinbodeelijah-sketch/toriloacademy-assessment" target="_blank" rel="noopener">View Methodology</a>
+        </div>
+      </article>
+
+      <!-- Project 2 -->
+      <article class="card">
+        <div class="card__head">
+          <h3>Web Application Security Lab</h3>
+          <span class="tag">Practice</span>
+        </div>
+        <p class="muted">Hands-on lab exploring common web vulns in safe environments.</p>
+        <ul class="grid two">
+          <li>Simulated SQLi & XSS</li>
+          <li>Dir brute forcing</li>
+          <li>Auth testing</li>
+          <li>Stack: OWASP ZAP, Wapiti, Burp</li>
+        </ul>
+        <div class="actions">
+          <a class="btn btn--ghost" href="https://github.com/akinbodeelijah-sketch" target="_blank" rel="noopener">Repo / Notes</a>
+        </div>
+      </article>
+
+      <!-- Project 3 -->
+      <article class="card">
+        <div class="card__head">
+          <h3>Wi-Fi Security Lab</h3>
+          <span class="tag">Network</span>
+        </div>
+        <p class="muted">Traffic capture and analysis to understand WPA2, ARP spoofing, and handshake workflows.</p>
+        <ul class="grid two">
+          <li>Captured handshakes</li>
+          <li>ARP spoof with Ettercap/Bettercap</li>
+          <li>Analysis in Wireshark</li>
+          <li>Ethics & defense notes included</li>
+        </ul>
+        <div class="actions">
+          <a class="btn btn--ghost" href="assets/wifi-lab-notes.pdf" target="_blank" rel="noopener">Lab Notes</a>
+        </div>
+      </article>
+    </section>
+
+    <section id="skills" class="section">
+      <h2>Skills & Tools</h2>
+      <div class="chips">
+        <span class="chip">Vulnerability Assessment</span>
+        <span class="chip">OSINT (WHOIS/DNS/IP)</span>
+        <span class="chip">Port & Network Scanning</span>
+        <span class="chip">Web App Testing</span>
+        <span class="chip">Reporting & Documentation</span>
+      </div>
+      <div class="tools">
+        <strong>Tools:</strong> Nmap, OWASP ZAP, Wapiti, Wireshark, Ettercap, WhatWeb, SQLmap, Kali/Parrot
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <h2>About</h2>
+      <p>Business Administration graduate transitioning into cybersecurity. I document my learning and practice through structured labs and scoped assessments. My focus: information gathering, web app security, and network traffic analysis—paired with concise, actionable reports.</p>
+      <div class="badges">
+        <span>Forage (in progress)</span>
+        <span>Blue Team Labs (in progress)</span>
+        <span>Torilo Academy (in progress)</span>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <h2>Contact</h2>
+      <form action="https://formspree.io/f/your-form-id" method="POST" class="contact">
+        <label>
+          <span>Name</span>
+          <input type="text" name="name" required>
+        </label>
+        <label>
+          <span>Email</span>
+          <input type="email" name="email" required>
+        </label>
+        <label>
+          <span>Message</span>
+          <textarea name="message" rows="5" required></textarea>
+        </label>
+        <button class="btn" type="submit">Send</button>
+      </form>
+      <div class="contact-list">
+        <a href="mailto:akinbodeelijahentltd@gmail.com">akinbodeelijahentltd@gmail.com</a> ·
+        <a href="tel:+2348058660394">+234 805 866 0394</a> · Lagos, Nigeria
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <small>© <span id="y"></span> Akinbode Elijah · Hosted on GitHub Pages</small>
+  </footer>
+
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
